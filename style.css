@@ -1,0 +1,39 @@
+body {
+ background-color: gray;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  color: #FFF;
+  font-family: 'Georgia', 'Times New Roman' sans-serif;
+  font-size: 32px;
+  text-align: center;
+  width: 60%;
+}
+
+.byline {
+  color: #FFF;
+  float: left;
+  font-family: 'Georgia', 'Times', sans-serif;
+  font-style: italic;
+  font-weight: 100;
+  font-size: 10px;
+  padding-left: 10px;
+}
+
+.image
+
+.caption {
+  color: rgba(255, 255, 255, 0.65);
+  display: block;
+  font-family: 'Georgia', 'Times', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  margin-left: 20px;
+  top: 80%;
+  width: 60%;
+}
+
+
